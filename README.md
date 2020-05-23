@@ -1,3 +1,3 @@
 # Masterpieces-On-CPP
-### Date | ### Name | ### Comment|
+Date | Name | Comment|
 ---------|----------|-------------|
