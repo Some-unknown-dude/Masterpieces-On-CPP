@@ -1,0 +1,16 @@
+﻿  Checkers.cpp
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(48,33): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(49,16): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(50,11): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(51,16): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(52,22): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(53,15): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(54,15): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(55,14): warning C4309: 'initializing': truncation of constant value
+C:\All my stuff\Programming\Projects\Important projects\Checkers\Board.h(56,11): warning C4309: 'initializing': truncation of constant value
+  Generating code
+  65 of 168 functions (38.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Checkers.vcxproj -> C:\All my stuff\Programming\Projects\Important projects\Checkers\Release\Checkers.exe
